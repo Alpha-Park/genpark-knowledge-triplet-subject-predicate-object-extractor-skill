@@ -1,0 +1,12 @@
+{
+  "name": "genpark-knowledge-triplet-subject-predicate-object-extractor-skill",
+  "version": "1.0.0",
+  "description": "Extracts clean (Subject, Predicate, Object) triplets and temporal relations from unstructured interactions.",
+  "category": "Agent Memory Graph & Temporal Knowledge",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-knowledge-triplet-subject-predicate-object-extractor-skill",
+  "verified": true,
+  "stars": 8
+}
